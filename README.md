@@ -48,10 +48,16 @@ The two-wheeler industry in India is vast and competitive, with multiple manufac
 
 - Brand logos and motorcycle images added to improve branding and storytelling.
 
+Screenshot 2025-08-13 193424.png
+Screenshot 2025-08-13 193457.png
+Screenshot 2025-08-13 193520.png
+Screenshot 2025-08-13 193545.png
+Screenshot 2025-08-13 193653.png
+Screenshot 2025-08-13 193728.png
+
 
 # Report Snapshot (Power BI DESKTOP) 
-1.
-![Bike Sales Analysis Dashboard](https://raw.githubusercontent.com/sujithts31618-ui/Power_BI_Bike_sales/main/Ktm.png)
+1.https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193424.png
 
 
 
