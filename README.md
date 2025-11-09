@@ -52,51 +52,22 @@ The two-wheeler industry in India is vast and competitive, with multiple manufac
 
 This project is an interactive Power BI dashboard for analyzing bike sales trends, resale value, and mileage across manufacturers in India.
 
-## 📊 Report Snapshots
-
+# Report Snapshot (Power BI DESKTOP) 
+1.
 ![Bike Sales Dashboard 1](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193424.png)
-
+2.
 ![Bike Sales Dashboard 2](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193457.png)
-
+3.
 ![Bike Sales Dashboard 3](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193520.png)
-
+4.
 ![Bike Sales Dashboard 4](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193545.png)
-
+5.
 ![Bike Sales Dashboard 5](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193653.png)
-
+6.
 ![Bike Sales Dashboard 6](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193728.png)
 
 ## 📁 Project File
 - [bike sales analysis 2024.pbix](bike%20sales%20analysis%202024.pbix)
-
-
-# Report Snapshot (Power BI DESKTOP) 
-1.https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193424.png
-
-
-
-2.
-
-![Bike Sales Analysis Dashboard](https://raw.githubusercontent.com/sujithts31618-ui/Power_BI_Bike_sales/main/Royal.png)
-
-
-
-3.
-
-![Bike Sales Analysis Dashboard](https://raw.githubusercontent.com/sujithts31618-ui/Power_BI_Bike_sales/main/Kawasaki.png)
-
-
-4.
-
-![Bike Sales Analysis Dashboard](https://raw.githubusercontent.com/sujithts31618-ui/Power_BI_Bike_sales/main/Honda.png)
-
-5.
-
-![Bike Sales Analysis Dashboard](https://raw.githubusercontent.com/sujithts31618-ui/Power_BI_Bike_sales/main/Bajaj.png)
-
-6.
-
-![Bike Sales Analysis Dashboard](https://raw.githubusercontent.com/sujithts31618-ui/Power_BI_Bike_sales/main/Hero.png)
 
 
 ## 👨‍💻 Author
