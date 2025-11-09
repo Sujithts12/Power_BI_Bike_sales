@@ -48,12 +48,26 @@ The two-wheeler industry in India is vast and competitive, with multiple manufac
 
 - Brand logos and motorcycle images added to improve branding and storytelling.
 
-Screenshot 2025-08-13 193424.png
-Screenshot 2025-08-13 193457.png
-Screenshot 2025-08-13 193520.png
-Screenshot 2025-08-13 193545.png
-Screenshot 2025-08-13 193653.png
-Screenshot 2025-08-13 193728.png
+# 🏍️ Bike Sales Analysis Dashboard (Power BI)
+
+This project is an interactive Power BI dashboard for analyzing bike sales trends, resale value, and mileage across manufacturers in India.
+
+## 📊 Report Snapshots
+
+![Bike Sales Dashboard 1](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193424.png)
+
+![Bike Sales Dashboard 2](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193457.png)
+
+![Bike Sales Dashboard 3](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193520.png)
+
+![Bike Sales Dashboard 4](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193545.png)
+
+![Bike Sales Dashboard 5](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193653.png)
+
+![Bike Sales Dashboard 6](https://raw.githubusercontent.com/Sujithts12/Power_BI_Bike_sales/main/Screenshot%202025-08-13%20193728.png)
+
+## 📁 Project File
+- [bike sales analysis 2024.pbix](bike%20sales%20analysis%202024.pbix)
 
 
 # Report Snapshot (Power BI DESKTOP) 
